@@ -10,7 +10,7 @@ namespace ADProj.DB
     {
         public DBSeeder(ADProjContext dbcontext)
         {
-
+            //test
             //Collectionpoint seeder
             CollectionPoint cp1 = new CollectionPoint()
             { Id = Guid.NewGuid().GetHashCode(),
