@@ -12,6 +12,7 @@ namespace ADProj.Controllers
     public class HomeController : Controller
     {
         //test commit and push 
+        //test test
 
         private readonly ILogger<HomeController> _logger;
 
