@@ -13,7 +13,7 @@ namespace ADProj.Controllers
     {
         //test commit and push 
         //test test
-        //test ma
+        //test
 
         private readonly ILogger<HomeController> _logger;
 
